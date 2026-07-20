@@ -1,5 +1,5 @@
 ```
-                   -`                    jeremy@mauretz
+                   -`                    jeremy@archlinux
                   .o+`                   --------------
                  `ooo/                   OS: Arch Linux x86_64
                 `+oooo:                  Identity: Jeremy Mauretz
