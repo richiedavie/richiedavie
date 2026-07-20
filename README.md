@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=200&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=220&section=header&text=Hi,%20I'm%20Jeremy%20Mauretz&fontSize=38&fontColor=ffffff&fontAlignY=38&fontFamily=JetBrains+Mono&desc=IT%20Student%20building%20across%20web%2C%20networking%20%26%20hardware&descAlignY=55&descSize=16&descColor=ffffff&descFontFamily=JetBrains+Mono" />
 
 <div align="center">
 
@@ -38,15 +38,6 @@
  `++:.                           `-/+/
  .`                                 `/
 ```
-
-<br>
-
-## 🚀 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/richiedavie/portofolio"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=richiedavie&repo=portofolio&theme=dark&border_color=ffffff&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" /></a>
-  <a href="https://github.com/richiedavie/trackinID"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=richiedavie&repo=trackinID&theme=dark&border_color=ffffff&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" /></a>
-</p>
 
 <br>
 
