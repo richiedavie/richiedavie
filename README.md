@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=220&section=header&text=Hi,%20I'm%20Jeremy%20Mauretz&fontSize=38&fontColor=ffffff&fontAlignY=38&fontFamily=JetBrains+Mono&desc=IT%20Student%20building%20across%20web%2C%20networking%20%26%20hardware&descAlignY=55&descSize=16&descColor=ffffff&descFontFamily=JetBrains+Mono" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=220&section=header&text=Hi%2C%20I%27m%20Jeremy%20Mauretz&fontSize=38&fontColor=ffffff&fontAlignY=38&fontFamily=JetBrains+Mono&desc=IT%20Student%20building%20across%20web%2C%20networking%20%26%20hardware&descAlignY=55&descSize=16&descColor=ffffff&descFontFamily=JetBrains+Mono" />
 
 <div align="center">
 
@@ -38,11 +38,3 @@
  `++:.                           `-/+/
  .`                                 `/
 ```
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richiedavie&color=000000&style=flat-square" alt="profile views" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:434343,100:000000&height=100&section=footer" />
