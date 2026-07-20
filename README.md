@@ -1,8 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=150&section=header&text=jeremy@mauretz&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=200&section=header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jeremy+Mauretz;IT+Student+%40+Metland+School;Web+Dev+%7C+Networking+%7C+Hardware" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&lines=jeremy%40mauretz;IT+Student+%40+Metland+School;Web+Dev+%E2%80%A2+Networking+%E2%80%A2+Hardware;Building+things%2C+breaking+things%2C+fixing+things." alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/-ARCH_LINUX-000000?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-NETWORKING-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-WEB_DEV-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:000000&height=3&width=800" />
+
+</div>
 
 ```
                    -`                    jeremy@mauretz
@@ -31,9 +44,14 @@
 ## 🚀 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/richiedavie/portofolio"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=richiedavie&repo=portofolio&theme=dark" /></a>
-  <a href="https://github.com/richiedavie/trackinID"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=richiedavie&repo=trackinID&theme=dark" /></a>
+  <a href="https://github.com/richiedavie/portofolio"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=richiedavie&repo=portofolio&theme=dark&border_color=ffffff&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" /></a>
+  <a href="https://github.com/richiedavie/trackinID"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=richiedavie&repo=trackinID&theme=dark&border_color=ffffff&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" /></a>
 </p>
 
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=richiedavie&color=000000&style=flat-square" alt="profile views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:434343,100:000000&height=100&section=footer" />
