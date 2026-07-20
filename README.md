@@ -1,15 +1,29 @@
 <div align="center">
-  <!-- Typing Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=System.Initialize();+Hello+World!;Network+%26+SysAdmin;Building+Cool+Stuff..." alt="Typing SVG" />
-  </a>
+
+<pre>
+██████╗ ██╗████████╗ ██████╗██╗  ██╗██╗███████╗    ██████╗ ███████╗██╗   ██╗
+██╔══██╗██║╚══██╔══╝██╔════╝██║  ██║██║██╔════╝    ██╔══██╗██╔════╝██║   ██║
+██████╔╝██║   ██║   ██║     ███████║██║█████╗      ██║  ██║█████╗  ██║   ██║
+██╔══██╗██║   ██║   ██║     ██╔══██║██║██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║  ██║██║   ██║   ╚██████╗██║  ██║██║███████╗    ██████╔╝███████╗ ╚████╔╝ 
+╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝ 
+</pre>
+
+<br>
+<code>&nbsp;>_ SYSTEM.INITIALIZE( "richiedavie" )&nbsp;</code>
+<br><br>
+
 </div>
 
-<br />
+<hr style="border: 1px solid #333;">
 
-```bash
-$ neofetch --user
-OS: Linux / Arch
-Role: Systems & Infrastructure / Developer
-Focus: Networking, Linux Admin, Web Dev
-Status: Online / Building Projects
+```yaml
+# SYSTEM_INFO //
+user:       richiedavie
+domain:     System, Information, and Network Infrastructure
+status:     [ "Online", "Building" ]
+current_op: Designing dark-themed UI & configuring VLAN environments
+environment:
+  - Arch Linux
+  - Ubuntu
+  - Dual-Boot Configuration
