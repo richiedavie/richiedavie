@@ -1,4 +1,5 @@
--`                    jeremy@mauretz
+```
+                   -`                    jeremy@mauretz
                   .o+`                   --------------
                  `ooo/                   OS: Arch Linux x86_64
                 `+oooo:                  Identity: Jeremy Mauretz
@@ -17,3 +18,4 @@
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
+```
