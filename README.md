@@ -20,3 +20,24 @@
 .`                                  `/
 
 ```
+
+$ whoami
+jeremy@mauretzz
+
+$ cat about.txt
+
+Information Technology student & aspiring full-stack developer.
+Currently exploring modern web technologies across both frontend
+and backend development.
+
+Frontend:
+  React · JavaScript · TypeScript · Next.js
+
+Backend:
+  Django · FastAPI · Laravel
+
+Database & Services:
+  PostgreSQL · Supabase
+
+Other:
+  Python · Linux · Networking · MikroTik · UI/UX
