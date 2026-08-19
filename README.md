@@ -21,23 +21,24 @@
 
 ```
 
-$ whoami
-jeremy@mauretzz
+````md
+### `> about_me`
 
-$ cat about.txt
+I'm an Information Technology student focused on web development and
+building practical digital experiences. Currently exploring both
+frontend and backend development, with an interest in modern frameworks,
+APIs, databases, and clean UI.
 
-Information Technology student & aspiring full-stack developer.
-Currently exploring modern web technologies across both frontend
-and backend development.
+```text
+Frontend    React · JavaScript · TypeScript · Next.js
+Backend     Django · FastAPI · Laravel · Python · PHP
+Database    PostgreSQL · Supabase
+Design      Figma · UI/UX
+Tools       Git · Linux · VS Code
+````
 
-Frontend:
-  React · JavaScript · TypeScript · Next.js
+> `status: continuously learning & building`
 
-Backend:
-  Django · FastAPI · Laravel
+```
+```
 
-Database & Services:
-  PostgreSQL · Supabase
-
-Other:
-  Python · Linux · Networking · MikroTik · UI/UX
