@@ -30,14 +30,16 @@ frontend and backend development, with an interest in modern frameworks,
 APIs, databases, and clean UI.
 
 ```text
-Frontend    React · JavaScript · TypeScript · Next.js
-Backend     Django · FastAPI · Laravel · Python · PHP
-Database    PostgreSQL · Supabase
+Frontend    React · Next.js · Astro · SvelteKit
+Backend     JavaScript · TypeScript · Python · PHP · Node.js · Go (Golang) 
+Projects    Win11Debloat · polri-mobile-kidk · Terahome · Pawshop · TrackinID-Remastered
+Database    PostgreSQL · Supabase · MySQL
 Design      Figma · UI/UX
 Tools       Git · Linux · VS Code
+
 ````
 
-> `status: continuously learning & building`
+> `status: continuously learning & building, and trying to make my own project`
 
 ```
 ```
